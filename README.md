@@ -1,3 +1,5 @@
+<a href="mailto:sujinjeon587@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sujinjeon587@gmail.com"/></a>
+
 <div align=center><h1>Programming Language</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
