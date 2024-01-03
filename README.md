@@ -1,4 +1,4 @@
-<div align=center><a href="mailto:sujinjeon587@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sujinjeon587@gmail.com"/></a></div>
+<div align=center><a href="mailto:sujinjeon587@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sujinjeon587@gmail.com"/></a>&nbsp;&nbsp; &nbsp;sujinjeon587@gmail.com</div>
 
 <div align=center><h1>Programming Language</h1></div>
 <div align=center> 
